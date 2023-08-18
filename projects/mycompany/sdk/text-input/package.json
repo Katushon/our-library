@@ -1,0 +1,16 @@
+{
+    "ngPackage": {
+      "lib": {
+        "entryFile": "public-api.ts"
+      }
+    },
+    "dependencies": {
+      "tslib": "^2.3.0"
+    },
+    "peerDependencies": {
+      "@angular/common": "^15.2.0",
+      "@angular/core": "^15.2.0",
+      "@syncfusion/ej2": "^22.2.5",
+      "@syncfusion/ej2-angular-inputs": "^22.2.5"
+    }
+  }
